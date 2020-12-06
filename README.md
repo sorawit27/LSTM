@@ -10,22 +10,8 @@ This project was partly inspired by previous work done by Yacoub Ahmed [here](ht
 
 ### Preliminary Analysis
 
-Click the link bellow to run the [Yolov3]( https://github.com/ultralytics/yolov3) Object detection with [DeepSort]( https://github.com/nwojke/deep_sort)  Object Tracking directly in Google Collab (no coding needed, just clicking and runing) 
+Click [here](https://github.com/sorawit27/Stock-Forecast/blob/master/LSTM_Stock_Forecast.ipynb) to run the Python notebook for a preliminary analysis of some stock data using LSTMs, and using a simple neural network model to try to predict future stock prices.
 
-<table align="left">
-  <td>
-    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Yolov3_DeepSort/GPU/Implementation_Object_tracker.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Yolov3 + DeepSort in Google Colab</a>
-  </td>
-</table>
-<br></br>
+### Algorithmic Trading: 
 
-### MaskRCNN: 
-
-Click the link bellow to run the [MaskRCNN](https://github.com/matterport/Mask_RCNN) Object detection directly in Google Collab (no coding needed, just clicking and runing) 
-
-<table align="left">
-  <td>
-    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/MaskRCNN-ODS/video_detection_run.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run MaskRCNN in Google Colab</a>
-  </td>
-</table>
-<br></br>
+Click [here](https://github.com/sorawit27/Stock-Forecast/blob/master/Project_Final.ipynb) to see an attempt of implementing a simple algorithmic trading model that trades stocks when the predicted prices rise above or fall below a certain threshold, and also an attempt of using a multiple-branch architecture to improve the performance of our model.
